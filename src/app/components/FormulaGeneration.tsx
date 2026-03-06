@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import exampleImage from "figma:asset/d1038dd5f9fce88eefd1b5961ab29e1b68f81118.png";
+import exampleImage from "../../assets/d1038dd5f9fce88eefd1b5961ab29e1b68f81118.png";
 
 export function FormulaGeneration() {
   return (
