@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import exampleImage from "figma:asset/962f7509ce3bd7b2d46c004df7c8584888d44d6b.png";
+import exampleImage from "../../assets/962f7509ce3bd7b2d46c004df7c8584888d44d6b.png";
 
 export function DataAnalysis() {
   return (
